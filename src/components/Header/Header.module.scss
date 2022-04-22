@@ -1,0 +1,22 @@
+.header {
+  min-height: 80px;
+  justify-content: center;
+  background: #464646;
+}
+
+.header_container {
+  justify-content: space-between;
+}
+
+.header_linkset {
+  max-width: 400px;
+  align-items: center;
+}
+.header_linkset_link {
+  padding: 15px 8px;
+  color: $white;
+  font-family: $Roboto;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 500;
+}
